@@ -1,0 +1,5 @@
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.pdb

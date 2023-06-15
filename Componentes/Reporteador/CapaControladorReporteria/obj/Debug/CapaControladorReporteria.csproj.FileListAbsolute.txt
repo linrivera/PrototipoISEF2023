@@ -1,0 +1,9 @@
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.dll
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CopyComplete
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.dll
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.pdb
