@@ -45,9 +45,8 @@ namespace Vista_Seguridad
             this.panelLogo.Controls.Add(this.pictureBox1);
             this.panelLogo.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelLogo.Location = new System.Drawing.Point(0, 0);
-            this.panelLogo.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelLogo.Name = "panelLogo";
-            this.panelLogo.Size = new System.Drawing.Size(375, 134);
+            this.panelLogo.Size = new System.Drawing.Size(250, 87);
             this.panelLogo.TabIndex = 0;
             // 
             // pictureBox1
@@ -55,9 +54,8 @@ namespace Vista_Seguridad
             this.pictureBox1.BackColor = System.Drawing.Color.SlateGray;
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(375, 134);
+            this.pictureBox1.Size = new System.Drawing.Size(250, 87);
             this.pictureBox1.TabIndex = 7;
             this.pictureBox1.TabStop = false;
             // 
@@ -70,13 +68,12 @@ namespace Vista_Seguridad
             this.btnVentas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnVentas.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnVentas.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
-            this.btnVentas.Location = new System.Drawing.Point(0, 134);
-            this.btnVentas.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnVentas.Location = new System.Drawing.Point(0, 87);
             this.btnVentas.Name = "btnVentas";
-            this.btnVentas.Padding = new System.Windows.Forms.Padding(76, 0, 0, 0);
-            this.btnVentas.Size = new System.Drawing.Size(375, 60);
+            this.btnVentas.Padding = new System.Windows.Forms.Padding(51, 0, 0, 0);
+            this.btnVentas.Size = new System.Drawing.Size(250, 39);
             this.btnVentas.TabIndex = 0;
-            this.btnVentas.Text = "CINE";
+            this.btnVentas.Text = "Clinica";
             this.btnVentas.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnVentas.UseVisualStyleBackColor = false;
             this.btnVentas.Click += new System.EventHandler(this.btnVentas_Click);
@@ -92,9 +89,8 @@ namespace Vista_Seguridad
             this.panelSideMenu.Controls.Add(this.panelLogo);
             this.panelSideMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelSideMenu.Location = new System.Drawing.Point(0, 0);
-            this.panelSideMenu.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelSideMenu.Name = "panelSideMenu";
-            this.panelSideMenu.Size = new System.Drawing.Size(375, 729);
+            this.panelSideMenu.Size = new System.Drawing.Size(250, 474);
             this.panelSideMenu.TabIndex = 46;
             // 
             // btnLogout
@@ -106,11 +102,10 @@ namespace Vista_Seguridad
             this.btnLogout.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnLogout.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogout.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
-            this.btnLogout.Location = new System.Drawing.Point(0, 254);
-            this.btnLogout.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnLogout.Location = new System.Drawing.Point(0, 165);
             this.btnLogout.Name = "btnLogout";
-            this.btnLogout.Padding = new System.Windows.Forms.Padding(76, 0, 0, 0);
-            this.btnLogout.Size = new System.Drawing.Size(375, 60);
+            this.btnLogout.Padding = new System.Windows.Forms.Padding(51, 0, 0, 0);
+            this.btnLogout.Size = new System.Drawing.Size(250, 39);
             this.btnLogout.TabIndex = 14;
             this.btnLogout.Text = "CERRAR SESIÓN";
             this.btnLogout.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -126,11 +121,10 @@ namespace Vista_Seguridad
             this.btnseguridad.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnseguridad.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnseguridad.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
-            this.btnseguridad.Location = new System.Drawing.Point(0, 194);
-            this.btnseguridad.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnseguridad.Location = new System.Drawing.Point(0, 126);
             this.btnseguridad.Name = "btnseguridad";
-            this.btnseguridad.Padding = new System.Windows.Forms.Padding(76, 0, 0, 0);
-            this.btnseguridad.Size = new System.Drawing.Size(375, 60);
+            this.btnseguridad.Padding = new System.Windows.Forms.Padding(51, 0, 0, 0);
+            this.btnseguridad.Size = new System.Drawing.Size(250, 39);
             this.btnseguridad.TabIndex = 13;
             this.btnseguridad.Text = "SEGURIDAD";
             this.btnseguridad.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -139,11 +133,12 @@ namespace Vista_Seguridad
             // 
             // Menup
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1167, 729);
+            this.ClientSize = new System.Drawing.Size(778, 474);
             this.Controls.Add(this.panelSideMenu);
             this.IsMdiContainer = true;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Menup";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menup";
