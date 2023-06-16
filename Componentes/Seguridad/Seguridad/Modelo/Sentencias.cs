@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 //Comentado por Luis Torres 26/02/2023
 namespace Modelo_Seguridad
 {
@@ -21,6 +22,7 @@ namespace Modelo_Seguridad
             int i = 0;
             string datos = "pk_id_usuario, username_usuario, password_usuario";
             string sql = "SELECT " + datos + " FROM tbl_usuarios where username_usuario='" + user + "';";
+
             try
             {
                 OdbcCommand command = new OdbcCommand(sql, con.conexion());

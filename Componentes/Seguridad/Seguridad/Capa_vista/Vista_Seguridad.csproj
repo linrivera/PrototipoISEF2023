@@ -34,11 +34,12 @@
     <Reference Include="CapaVista">
       <HintPath>..\..\..\..\Modulos\Ventas\CapaVista\bin\Debug\CapaVista.dll</HintPath>
     </Reference>
-    <Reference Include="CPC_Vista">
-      <HintPath>..\..\..\..\Modulos\CuentasXCobrar\CPC_Vista\bin\Debug\CPC_Vista.dll</HintPath>
+    <Reference Include="CapaVista_clinica, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Clinica\CapaVista_clinica\bin\Debug\CapaVista_clinica.dll</HintPath>
     </Reference>
-    <Reference Include="CxPVista">
-      <HintPath>..\..\..\..\Modulos\CxP\CxP\CxPVista\bin\Debug\CxPVista.dll</HintPath>
+    <Reference Include="Cine_Vista">
+      <HintPath>..\..\..\..\Modulos\Cine\Cine_Vista\bin\Debug\Cine_Vista.dll</HintPath>
     </Reference>
     <Reference Include="eCryptography, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Eramake.eCryptography.1.1.6\lib\net45\eCryptography.dll</HintPath>

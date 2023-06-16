@@ -1,0 +1,9 @@
+C:\Users\linri\Desktop\tercer examen parcial\Clinica\CapaLogica_clinica\bin\Debug\CapaLogica_clinica.dll
+C:\Users\linri\Desktop\tercer examen parcial\Clinica\CapaLogica_clinica\bin\Debug\CapaLogica_clinica.pdb
+C:\Users\linri\Desktop\tercer examen parcial\Clinica\CapaLogica_clinica\obj\Debug\CapaLogica_clinica.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\tercer examen parcial\Clinica\CapaLogica_clinica\obj\Debug\CapaLogica_clinica.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\tercer examen parcial\Clinica\CapaLogica_clinica\obj\Debug\CapaLogica_clinica.dll
+C:\Users\linri\Desktop\tercer examen parcial\Clinica\CapaLogica_clinica\obj\Debug\CapaLogica_clinica.pdb
+C:\Users\linri\Desktop\tercer examen parcial\Clinica\CapaLogica_clinica\bin\Debug\CapsDatos.dll
+C:\Users\linri\Desktop\tercer examen parcial\Clinica\CapaLogica_clinica\bin\Debug\CapsDatos.pdb
+C:\Users\linri\Desktop\tercer examen parcial\Clinica\CapaLogica_clinica\obj\Debug\CapaLogica_clinica.csproj.CopyComplete
